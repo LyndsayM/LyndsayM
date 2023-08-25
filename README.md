@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LyndsayM
-- 👀 I’m a public health research professional with many years' experience as a research project manager. I am currently working on my MPH with a focus on Epidemiology and Biostatistics. I am especially interested in Environmental and Occupational Health. 
-- 🌱 I’m currently learning R, ArcGIS, and Python. I have some previous experience with website development (Bootstrap, MongoDB) and SQL.
+- 👀 I’m a public health research professional with many years' experience as a research project manager. I am currently working on my MPH with a focus on Epidemiology and Biostatistics. I am especially interested in the impact of climate change on health. 
+- 🌱 I’m currently learning R. I have some previous experience with Python, SQL, ArcGIS, Bootstrap, and MongoDB.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
