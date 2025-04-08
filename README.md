@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LyndsayM
-- 👀 I’m a public health research professional with many years' experience as a research project manager and grant administrator. I am in my final year in the MPH program (Epidemiology and Biostatistics) at UC Berkeley. My work background is in tobacco cessation intervention RCTs developed and provided remotely. Topics of interest include impact of environment on chronic disease and rural health.
-- 🌱 I've been an R user since 2021 and also have experience with ArcGIS as well as Python.
+- 👋 Hi, I’m Lyndsay.
+- 👀 My working journey has taken me through many corners of public health research - project management, clinical research, and now observational data analysis. I worked in tobacco cessation research for many years and recently transitioned to maternal and child health epidemiology at the Washington State Department of Health. 
+- 🌱 I've been an R user since 2021 and dabbled in many other languages (SQL, Python) as well as Tableau, ArcGIS, and PowerBI. I'm always excited to learn new tools. 
 
 
 <!---
